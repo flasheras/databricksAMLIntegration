@@ -5,5 +5,5 @@ First of all you have to create or have a previously created databricks workspac
 
 Once you have an available Databricks Workspace you link it to Azure Machine Learning either with AML SDK or form azure AML portal as follows:
 
-![Link a Databricks Workspace from AML portal](images/register_databricks_compute_from_AML)
+![Link a Databricks Workspace from AML portal](https://github.com/flasheras/databricksAMLIntegration/blob/master/images/register_databricks_compute_from%20AML.png?raw=true)
 
